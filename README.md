@@ -1,15 +1,6 @@
 # DevOps Directive GitHub Actions Course
 
-This is the companion repo to: [GitHub Actions: Beginner to Pro](https://courses.devopsdirective.com/github-actions-beginner-to-pro)
-
-[![](./readme-assets/thumbnail-yt.png)](https://youtu.be/Xwpi0ITkL3U)
-
-## 🙌 Sponsored by Namespace Labs
-
-This course is made possible thanks to [namespace.so](https://namespace.so/?utm_source=devopsdirective), the best way level up your software build and developer workflows!
-
-
-[![](./readme-assets/namespace-screenshot.png)](https://namespace.so/?utm_source=devopsdirective)
+This is the companion repo to: [GitHub Actions: Beginner to Pro](https://courses.devopsdirective.com/github-actions-beginner-to-pr
 
 - **Faster GitHub Actions:** Hosted GHA runners for faster runs at a fraction of the cost!
 - **Faster Docker Builds:** Remote Docker builders for massive container build speedups!
